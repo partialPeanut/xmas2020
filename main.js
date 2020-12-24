@@ -1,7 +1,7 @@
 function checkPassword(){
     input = document.getElementById("input")
 
-    if (input.value == "Go!") {
+    if (input.value == "kiki4") {
         window.location.href = "./success.html"
     } else {
         newEl = document.createElement("div")
